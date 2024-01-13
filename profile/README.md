@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Roadmap-WPI</h3>
+  <h1 align="center">Roadmap-WPI</h1>
 
   <p align="center">
     A universal solution to introduce you to WPI's major requirement system <br> Developed by WPI students for WPI students (GoatHack 2024).
