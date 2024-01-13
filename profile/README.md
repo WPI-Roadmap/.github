@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Roadmap-WPI</h1>
+  <h1 align="center">WPI Roadmap</h1>
 
   <p align="center">
     A universal solution to introduce you to WPI's major requirement system <br> Developed by WPI students for WPI students (GoatHack 2024).
@@ -9,7 +9,7 @@
 
 ### About
 
-Roadmap-WPI provides a clean, aesthetic visual solution to help incoming WPI students understand the major requirements system. The website is designed to be easy to use and understand, and is a great resource for students to use when planning their academic career by keeping track of their major requirements and progress as well as visualizing prerequisites and course offerings. This project was developed by Randy Huang, Tarun Eswar, Ajay Bhagavatula, Erica Dong, and Charles Tang for the GoatHacks 2024 hackathon at WPI.
+WPI Roadmap provides a clean, aesthetic visual solution to help incoming WPI students understand the major requirements system. The website is designed to be easy to use and understand, and is a great resource for students to use when planning their academic career by keeping track of their major requirements and progress as well as visualizing prerequisites and course offerings. This project was developed by Randy Huang, Tarun Eswar, Ajay Bhagavatula, Erica Dong, and Charles Tang for the GoatHacks 2024 hackathon at WPI.
 
 ### Technical
 #### Technology Used
