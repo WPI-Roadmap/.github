@@ -9,7 +9,7 @@
 
 ### About
 
-WPI Roadmap provides a clean, aesthetic visual solution to help incoming WPI students understand the major requirements system. The website is designed to be easy to use and understand, and is a great resource for students to use when planning their academic career by keeping track of their major requirements and progress as well as visualizing prerequisites and course offerings. This project was developed by Randy Huang, Tarun Eswar, Ajay Bhagavatula, Erica Dong, and Charles Tang for the GoatHacks 2024 hackathon at WPI.
+WPI Roadmap provides a clean, aesthetic visual solution to help incoming WPI students understand the major requirements system. The website is designed to be easy to use and understand and is a great resource for students to use when planning their academic career by keeping track of their major requirements and progress as well as visualizing prerequisites and course offerings. This project was developed by Randy Huang, Tarun Eswar, Ajay Bhagavatula, Erica Dong, and Charles Tang for the GoatHacks 2024 hackathon at WPI.
 
 ### Technical
 #### Technology Used
@@ -20,7 +20,7 @@ WPI Roadmap provides a clean, aesthetic visual solution to help incoming WPI stu
 
 #### Local Hosting
 
-To run the project locally, you may clone this respository. You must have Node version 18+ installed on your machine.
+To run the project locally, you may clone this repository. You must have Node version 18+ installed on your machine.
 
 ```bash
 git clone https://github.com/WPI-Roadmap/client-side.git
@@ -51,7 +51,7 @@ Go to `localhost:3000` to view the project.
 
 ### Contributing
 
-We'd love to have your help in making Roadmap-WPI better. The project still has work to do before full production launch, but if there's an issue you'd like to see addressed sooner rather than later, let us know. 
+We'd love to have your help in making WPI Roadmap better. The project still has work to do before full production launch, but if there's an issue you'd like to see addressed sooner rather than later, let us know. 
 
 For any concerns, please open an [issue](https://github.com/WPI-Roadmap/client-side/issues), or feel free to, [fork the project and send a pull request](https://github.com/WPI-Roadmap/client-side/pulls). 
 
