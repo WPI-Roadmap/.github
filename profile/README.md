@@ -4,11 +4,7 @@
   <p align="center">
     A universal solution to introduce you to WPI's major requirement system <br> Developed by WPI students for WPI students.
     <br>
-    </p>
-
-    <p align="center">
     Winner of 2024 GoatHacks at WPI
-    <br>
     </p>
 </p>
 
