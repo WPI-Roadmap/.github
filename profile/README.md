@@ -46,8 +46,8 @@ Go to `localhost:3000` to view the project.
 - [x] Roadmap visualization for all majors (hierarchal diagram)
 - [x] Sync with OSCAR.wpi.edu and COURSELISTINGS.wpi.edu for up-to-date course offerings and professor/course ratings
 - [x] Tracking sheet digitization for helping you satisfy major requirements
+- [x] Profile syncing and WPI SSO
 - [ ] LLM-based course recommendations based on your major, interests, and satisfaction with past courses
-- [ ] Profile syncing and WPI SSO
 
 ### Contributing
 
