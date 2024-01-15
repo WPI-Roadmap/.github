@@ -2,9 +2,9 @@
   <h1 align="center">WPI Roadmap</h1>
 
   <p align="center">
-    A universal solution to introduce you to WPI's major requirement system <br> Developed by WPI students for WPI students.
+    A universal solution to introduce you to WPI's academic programs. <br> Developed by WPI students for WPI students.
     <br>
-    Winner of 2024 GoatHacks at WPI
+    Winner of GoatHacks 2024 at WPI.
     </p>
 </p>
 
@@ -48,7 +48,7 @@ Go to `localhost:3000` to view the project.
 - [x] Sync with OSCAR.wpi.edu and COURSELISTINGS.wpi.edu for up-to-date course offerings and professor/course ratings
 - [x] Tracking sheet digitization for helping you satisfy major requirements
 - [x] Profile syncing and WPI SSO
-- [ ] LLM-based course recommendations based on your major, interests, and satisfaction with past courses
+- [ ] AI-based course recommendations based on your major, interests, and satisfaction with past courses
 
 ### Contributing
 
