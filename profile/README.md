@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/WPI-Roadmap/client-side/main/public/logo-icon.png?token=GHSAT0AAAAAACIAO64DY4FIOAUSSMIMAZT6ZNETINQ" alt="Roadmap-WPI" width=200 height=200>
   <h1 align="center">WPI Roadmap</h1>
 
   <p align="center">
