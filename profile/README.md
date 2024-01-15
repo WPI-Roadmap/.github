@@ -2,11 +2,14 @@
   <h1 align="center">WPI Roadmap</h1>
 
   <p align="center">
-    A universal solution to introduce you to WPI's academic programs. <br> Developed by WPI students for WPI students.
+    A universal solution to introduce you to WPI's academic programs. 
+    <br> 
+    Developed by WPI students for WPI students.
     <br>
     Winner of GoatHacks 2024 at WPI.
     </p>
 </p>
+
 
 ### About
 
