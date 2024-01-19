@@ -56,9 +56,7 @@ Go to `localhost:3000` to view the project.
 
 ### Contributing
 
-We'd love to have your help in making WPI Roadmap better. The project still has work to do before full production launch, but if there's an issue you'd like to see addressed sooner rather than later, let us know. 
-
-For any concerns, please open an [issue](https://github.com/WPI-Roadmap/client-side/issues), or feel free to, [fork the project and send a pull request](https://github.com/WPI-Roadmap/client-side/pulls). 
+We'd love to have your help in making WPI Roadmap better. The project still has work to do before full production launch, but if there's an issue you'd like to see addressed sooner rather than later, feel free to provide feedback in this [form](https://docs.google.com/forms/d/e/1FAIpQLSc5q6dSj64dnJKFNRnLR2la4wynA2aWlHugiemjvx-f8ElQWg/viewform)!
 
 <hr>
 
