@@ -39,7 +39,7 @@ We'd love to have your help in making WPI Roadmap better. The project still has 
 <hr>
 
 ## Technical
-#### Technology Used
+#### Technologies Used
 <div align="center">
 <p align="center"> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
