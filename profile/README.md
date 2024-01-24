@@ -3,7 +3,7 @@
   <h1 align="center">WPI Roadmap</h1>
 
   <p align="center">
-    A universal solution to familiarize yourself with WPI's academic programs. 
+    Navigate your majors and academics at WPI with ease.
     <br> 
     Developed by WPI students for WPI students.
     <br>
