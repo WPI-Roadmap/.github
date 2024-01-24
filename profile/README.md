@@ -12,7 +12,7 @@
 </p>
 
 
-### About
+## About
 
 WPI Roadmap provides an inituitive solution over the existing tracking sheets to help WPI students more easily understand their majors and course requirements. The website is designed to be easy to use and is great for students planning their academics by keeping track of their major requirements and progress as well as visualizing prerequisites and course offerings, integrating information from sources such as OSCAR and RateMyProfessor. This project was developed by Randy Huang, Tarun Eswar, Ajay Bhagavatula, Erica Dong, and Charles Tang for the GoatHacks 2024 hackathon at WPI.
 
