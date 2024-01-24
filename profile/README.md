@@ -27,8 +27,8 @@ WPI Roadmap provides an inituitive solution over the existing tracking sheets to
 
 ### Future Work
 
-- Improvements towards current features: a more comprehensive roadmap, better tracking sheets, and full integration with data from sources like OSCAR and RateMyProfessors
-- AI-integration, including but not limited to course recommendations based on your major, interests, and satisfaction with past courses
+- Improvements for a more comprehensive roadmap, better tracking sheets, and full course data integration
+- AI-based course recommendations based on your major, interests, and satisfaction with past courses
 - Community features
 - Let us know what you'd like to see in the feedback form below!
 
