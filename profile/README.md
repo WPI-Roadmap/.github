@@ -9,8 +9,7 @@
     <br>
     Best Software for GoatHacks 2024 @ WPI.
     <br>
-    
-    [Demo](https://roadmap-wpi.web.app)
+    Website: [Demo](https://roadmap-wpi.web.app)
   </p>
 </p>
 
