@@ -19,17 +19,17 @@ WPI Roadmap provides an inituitive solution over the existing tracking sheets to
 
 ## Current Features
 
-- [x] Roadmap visualization (basic hierarchies)
-- [x] Basic tracking sheet
-- [x] Sync with courselistings.wpi.edu for up-to-date course offerings and professor/course ratings
-- [x] Profiles
+- Roadmap visualization (basic hierarchies)
+- Basic tracking sheet
+- Sync with courselistings.wpi.edu for up-to-date course offerings and professor/course ratings
+- Profiles
 
 ### Future Work
 
-- [ ] Improvements towards current features: a more comprehensive roadmap, better tracking sheets, and full integration with data from sources like OSCAR and RateMyProfessors
-- [ ] AI-integration, including but not limited to course recommendations based on your major, interests, and satisfaction with past courses
-- [ ] Community features
-- [ ] Let us know what you'd like to see in the feedback form below!
+- Improvements towards current features: a more comprehensive roadmap, better tracking sheets, and full integration with data from sources like OSCAR and RateMyProfessors
+- AI-integration, including but not limited to course recommendations based on your major, interests, and satisfaction with past courses
+- Community features
+- Let us know what you'd like to see in the feedback form below!
 
 ## Contributing
 
