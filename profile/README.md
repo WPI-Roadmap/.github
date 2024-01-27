@@ -20,7 +20,7 @@ WPI Roadmap provides an inituitive solution over the existing tracking sheets to
 
 ## Current Features
 
-- Roadmap visualization (basic hierarchies)
+- Roadmap visualization (basic course hierarchies)
 - Basic tracking sheet
 - Sync with courselistings.wpi.edu for up-to-date course offerings and professor/course ratings
 - Profiles
